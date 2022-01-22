@@ -132,8 +132,6 @@ class UserController extends Controller
             ]);
 
             
-
-
             //1. alteração do nome
             $user->name = $data['name'];
 
